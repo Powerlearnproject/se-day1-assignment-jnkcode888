@@ -1,0 +1,70 @@
+
+
+### **Part 1: Introduction to Software Engineering**
+
+**1. Why does software engineering matter?**
+   - **Answer:** Software engineering ensures that systems remain reliable, scalable, and secure. Good software engineering practices prevent issues like crashes in critical applications (e.g., bank apps) or dangerous failures in systems like medical devices.
+
+**2. Identify and describe at least three key milestones in the evolution of software engineering.**
+   - **Answer:** 
+     - **1968’s “Oops, We Need Rules” Moment:** The term "software engineering" was coined at a NATO conference to bring discipline to software projects.
+     - **1970s Code Cleanup:** Edsger Dijkstra and others promoted structured programming to replace messy, unorganized "spaghetti code" with cleaner, more maintainable code.
+     - **2001’s Agile Rebellion:** Developers created the Agile Manifesto, introducing Agile methodologies that emphasize flexibility and adaptability in software development.
+
+**3. List and briefly explain the phases of the Software Development Life Cycle (SDLC).**
+   - **Answer:** 
+     - **Planning:** Define the purpose, scope, and requirements of the software.
+     - **Design:** Create the software blueprint, including architecture and user interface.
+     - **Development:** Write the actual code based on the design.
+     - **Testing:** Identify and fix bugs and issues in the software.
+     - **Deployment:** Release the software to users.
+     - **Maintenance:** Continuously improve and fix issues after deployment.
+
+**4. Compare and contrast Waterfall vs. Agile methodologies.**
+   - **Answer:**
+     - **Waterfall:** A linear, sequential approach where each phase must be completed before moving to the next. Suitable for projects with fixed requirements, such as satellite development.
+     - **Agile:** An iterative and flexible approach where development is broken into sprints. It allows for regular feedback and changes, ideal for fast-paced projects like startup apps.
+
+**5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
+   - **Answer:**
+     - **Software Developer:** Develops and maintains applications and systems. They collaborate with other team members to ensure best practices and report progress to the project manager.
+     - **Quality Assurance (QA) Engineer:** Ensures the software meets the required standards and functions correctly by testing it for bugs and efficiency. They also create and execute automated test scripts.
+     - **Project Manager:** Leads the team, manages project scope, tracks progress, ensures deadlines are met, and communicates with clients to deliver the final product.
+
+**6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process.**
+   - **Answer:** 
+     - **IDEs:** Tools like VS Code help streamline coding by providing features such as code completion, syntax highlighting, debugging tools, and automation of common tasks, making development more efficient.
+     - **VCS (e.g., Git):** Allows developers to track code changes, collaborate with others, and revert to previous versions if necessary. It ensures that everyone works on the latest version and prevents conflicts.
+
+**7. What are some common challenges faced by software engineers, and how can they be overcome?**
+   - **Answer:**
+     - **Scope Creep:** Frequent changes to the project’s scope can be controlled using Agile sprints.
+     - **Bugs:** Bugs that only occur in specific situations can be mitigated by testing early and often.
+     - **Deadlines:** Tight deadlines can be managed by prioritizing tasks and breaking projects into manageable pieces.
+
+**8. Explain the different types of testing in software quality assurance.**
+   - **Answer:**
+     - **Unit Tests:** Test individual components of the software to ensure each part functions correctly in isolation.
+     - **Integration Tests:** Ensure that different modules work together as expected.
+     - **System Tests:** Test the entire software system to verify that it meets all functional and non-functional requirements.
+     - **Acceptance Tests:** Verify that the software meets the client’s requirements and is ready for deployment.
+
+---
+
+### **Part 2: AI & Prompt Engineering**
+
+**9. Define prompt engineering and discuss its importance in interacting with AI models.**
+   - **Answer:** Prompt engineering is the process of designing clear and specific instructions that guide AI models to generate desired outputs. It’s important because it helps improve the user experience, ensures more accurate results, and gives developers control over how the AI responds.
+
+**10. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+   - **Answer:** 
+     - **Vague Prompt:** “How do I cook?”
+     - **Improved Prompt:** “Give me 3 quick chicken recipes for picky toddlers.”
+     - **Explanation:** The improved prompt is clear and specific, providing exact details (chicken recipes, picky toddlers) that help the AI generate relevant results.
+
+**11. Fix the space prompt: “Tell me about space.”**
+   - **Answer:** 
+     - **Bad Version:** "Tell me about space" (Too broad).
+     - **Fixed Version:** "List 3 weird facts about Saturn’s rings discovered since 2020."
+     - **Explanation:** The fixed version is specific, narrowing down the topic to Saturn’s rings and ensuring the AI stays on track without veering into unrelated topics.
+
